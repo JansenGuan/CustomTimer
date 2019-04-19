@@ -22,11 +22,6 @@ class ViewController: UIViewController {
 //        }
         
         
-        
-//        iGolaCustomTimer().startTimer(duration: 2) {
-//            print(Date())
-//        }
-        
        
     }
 
