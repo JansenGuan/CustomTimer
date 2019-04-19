@@ -14,11 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
 //        iGolaCustomTimer().startCountDownTimer(totalTime: 10) { (isOver) in
-//            if isOver{
-//                print(" 倒计时结束了 ")
-//            }else{
-//                print(Date())
-//            }
+
 //        }
         
         
